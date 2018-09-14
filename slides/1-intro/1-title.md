@@ -1,3 +1,1 @@
-### join me on
-# my  TDD 
-##  journey
+### join me on my *TDD* journey

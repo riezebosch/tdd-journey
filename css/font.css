@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+    font-family: 'Indie Flower', cursive;
+}
