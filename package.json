@@ -1,0 +1,29 @@
+{
+  "name": "tdd-journey",
+  "version": "1.0.0",
+  "description": "Join me on my TDD journey",
+  "main": "index.js",
+  "scripts": {
+    "start": "kc-serve --theme @riezebosch/xpirit-theme --highlight vs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riezebosch/tdd-journey.git"
+  },
+  "keywords": [
+    "tdd",
+    "presentation",
+    "techorama",
+    "2018"
+  ],
+  "author": "Manuel Riezebosch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riezebosch/tdd-journey/issues"
+  },
+  "homepage": "https://github.com/riezebosch/tdd-journey#readme",
+  "dependencies": {
+    "@infosupport/kc-serve": "^2.1.3",
+    "@riezebosch/xpirit-theme": "0.0.9"
+  }
+}
