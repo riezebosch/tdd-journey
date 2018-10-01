@@ -9,3 +9,11 @@
     left: 10%;
     bottom: -700px;
 }
+
+.footer {
+    position: absolute;
+    right: 0px;
+    width: 4em;
+    height: 100%;
+    zoom: 200%;
+}
