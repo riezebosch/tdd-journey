@@ -3,3 +3,9 @@
 .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
     font-family: 'Indie Flower', cursive;
 }
+
+.reveal h3#join-me-on-my-tdd-journey {
+    position: fixed;
+    left: 10%;
+    bottom: -700px;
+}
