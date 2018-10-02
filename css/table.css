@@ -1,0 +1,18 @@
+table {
+    zoom: 50%;
+}
+
+.reveal table th {
+    white-space: nowrap;
+}
+
+.reveal table td:nth-child(2) {
+    color: green;
+}
+
+img[alt='stryker-logo'] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1em;
+}
