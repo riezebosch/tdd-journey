@@ -1,3 +1,5 @@
-#code and then tests
-#design test code
-#test design through code
+### write **code** *then tests*
+
+### **design** *then write test and code*
+
+### write **tests** *and design through code*
