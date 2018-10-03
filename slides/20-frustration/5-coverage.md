@@ -1,1 +1,1 @@
-<iframe src="https://www.polleverywhere.com/multiple_choice_polls/aVw2Kj3PJF26siR?preview=true" class="stretch" height="100%" width="100%"/>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/aVw2Kj3PJF26siR?controls=none&short_poll=true" class="stretch" height="100%" width="100%"/>
