@@ -1,5 +1,4 @@
-colleagues  
-
+dear colleagues  
 
 <pre><code class="bash" data-noescape data-trim>
 public bool GetResult(VstsService.Response.Release release)

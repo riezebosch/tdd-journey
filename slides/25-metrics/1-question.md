@@ -1,4 +1,4 @@
-what about
+but what about
 # metrics
 and TDD?
 
