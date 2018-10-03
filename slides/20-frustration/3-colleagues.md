@@ -1,4 +1,5 @@
-some random null checks  
+colleagues  
+
 
 <pre><code class="bash" data-noescape data-trim>
 public bool GetResult(VstsService.Response.Release release)
@@ -10,4 +11,6 @@ public bool GetResult(VstsService.Response.Release release)
 }
 </code></pre>
 
-to make an integration test pass...
+throwing in some random null checks  
+
+to make an integration test pass...<!-- .element: class="fragment" -->
